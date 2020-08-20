@@ -1,5 +1,5 @@
 # shortest-path
-a brief shortest app path finding script in PHP
+A simple shortest app path finding script in PHP, for use in network or command line calls.
 
 SYSTEM REQUIREMENTS
 These should normally exist by default on a dev machine:
